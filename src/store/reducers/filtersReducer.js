@@ -4,7 +4,7 @@ import * as types from '../types';
 const initialState = {
   items: [
     { name: 'All', text: 'Все', id: 1, checked: false },
-    { name: 'No transfer', text: 'Без пересадоксе', id: 2, checked: false },
+    { name: 'No transfer', text: 'Без пересадок', id: 2, checked: false },
     { name: '1 transfer', text: '1 пересадка', id: 3, checked: false },
     { name: '2 transfer', text: '2 пересадки', id: 4, checked: false },
     { name: '3 transfer', text: '3 пересадки', id: 5, checked: false },
