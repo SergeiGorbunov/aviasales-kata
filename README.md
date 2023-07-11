@@ -1,1 +1,0 @@
-# [Развернутый сайт](https://aviasales-kata-bay.vercel.app/)
